@@ -5,7 +5,7 @@ A simple Notes App made using React JS, Redux and Django Rest Framework. I was t
 
 <div align="center"><img src="Home Page.png" alt="base" border="0"><p>Home Page</p></div>
 
-<div align="center"><video src="adding.mov" alt="alert" border="0"><p>React Alert Component</p></div>
+<div align="center"><iframe src="adding.mov" alt="alert" border="0"><p>React Alert Component</p></div>
 
 # <div align="center"><img src="https://i.ibb.co/y4Hp0Gz/login.png" alt="login" border="0"><p>Login Page</p></div>
 
