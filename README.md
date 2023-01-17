@@ -5,7 +5,7 @@ A simple Notes App made using React JS, Redux and Django Rest Framework. I was t
 
 <div align="center"><img src="Home Page.png" alt="base" border="0"><p>Home Page</p></div>
 
-
+[![adding.mov](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <div align="center"><video src="https://github.com/zia166/NoteApp-Django-React/blob/zia166-/-NoteApp-Django-React-/adding.mov"></video><p>Login Page</p></div>
 
