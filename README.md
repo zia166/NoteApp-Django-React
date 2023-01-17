@@ -3,7 +3,7 @@ A simple Notes App made using React JS, Redux and Django Rest Framework. I was t
 
 <br/>
 
-<div align="center"><img src="Home Page.png" alt="base" border="0"><p>Hom</div>
+<div align="center"><img src="Home Page.png" alt="base" border="0"><p>HomePage</div>
 
 
 ## Technologies used:
