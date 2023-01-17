@@ -7,7 +7,7 @@ A simple Notes App made using React JS, Redux and Django Rest Framework. I was t
 
 
 
-<div align="center"><video href="/zia166/NoteApp-Django-React/blob/803a194e1c6f3b13cc931bd69cd7d6deff3ebe89/adding.mov"/><p>Login Page</p></div>
+<div align="center"><video src="/zia166/NoteApp-Django-React/blob/803a194e1c6f3b13cc931bd69cd7d6deff3ebe89/adding.mov"/><p>Login Page</p></div>
 
 # <div align="center"><img src="https://i.ibb.co/cbJK841/register.png" alt="register" border="0"><p>Register Page</p></div>
 
