@@ -9,7 +9,6 @@ A simple Notes App made using React JS, Redux and Django Rest Framework. I was t
 
 <div align="center"><video src="https://github.com/zia166/NoteApp-Django-React/blob/zia166-/-NoteApp-Django-React-/adding.mov"></video><p>Login Page</p></div>
 
-# <div align="center"><img src="https://i.ibb.co/cbJK841/register.png" alt="register" border="0"><p>Register Page</p></div>
 
 ## Technologies used:
 
