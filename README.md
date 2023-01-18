@@ -11,12 +11,12 @@ A simple Notes App made using React JS, Redux and Django Rest Framework. I was t
 - Backend - `Django` + `Django Rest Framework`
 - Frontend - `ReactJS`
 - Styling - `vanilla CSS`
-- `React Router` for routing (frontend)
+-`React Router` for routing (frontend)
 - Database - `SQLite3`. But you can easily plug and use the DB of your choice.
 
 ## Description
 
-This is a simple note taking app with Token Based Authentication. Any user can easily login/register using their `email` and `password`. After that they will be able to use this Notes App. The authenticated users will be able to do the following:
+This is a simple note taking app with Token Based Authentication. After that they will be able to use this Notes App. The users will be able to do the following:
 
 - Create a note
 - Delete  note
@@ -31,12 +31,12 @@ A single `note` consists of the following data:
 
 ## How to use it?
 
-I developed both the Django backend and the ReactJS frontend separately. 
+I developed both the Django backend and the ReactJS frontend seperately and merge it later. 
 One of the many ways to run this project is to **run the Django backend API alone** and then **use the React frontend to consume the API**.
 
 So to do that, first:
 
-- `git clone` or `Download ZIP` this repo `https://github.com/the-coding-pie/notes_app.git`
+- `git clone` or `Download ZIP` this repo `https://github.com/zia166/NoteApp-Django-React.git`
 
 Then setup the Backend...
 
