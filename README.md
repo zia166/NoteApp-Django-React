@@ -1,5 +1,5 @@
 # Notes App
-A simple Notes App made using React JS, Redux and Django Rest Framework. I was trying to connect my Django, React JS and Redux skills together, so I built this.
+A simple Notes App made using React JS, Redux and Django Rest Framework. I was trying to connect my Django, React JS skills together, so I built this.
 
 <br/>
 
